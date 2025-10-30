@@ -4,8 +4,6 @@ I got tired of re-explaining BMC Helix Query Language to ChatGPT, so I scraped t
 
 ## What's here
 - `bmc_download_docs.py` grabs the public docs listed in `URLS` and dumps the cleaned text into `bmc_query_language_docs.md` (or any filename you pass in).
-- `SEARCH flags(include_destroyed) Software` is a sample query I reference a lot.
-- `Untitled-2.ts` is an Excel Office Script helper for filling in a model template — tossed here so it stays in reach.
 
 ## How I use it
 1. Make sure Python 3.10+ is around.
